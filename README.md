@@ -48,6 +48,8 @@ Model Used:  Logistic Regression
 Results:
 The performance of the model is evaluated based on Accuracy Score and Cross-Validation Score. Detailed results can be found in the results/ directory.
 
+Kaggle asks for a submission.csv which is a csv file for all the predictions on the test.csv data, the submission.csv file can be found in the results folder.
+
 Contributing:
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements.
 
