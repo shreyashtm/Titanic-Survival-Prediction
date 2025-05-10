@@ -21,3 +21,20 @@ The dataset used is the classic [Titanic: Machine Learning from Disaster](https:
 ---
 
 ## 📁 Project Structure
+Titanic-Survival-Prediction/
+├── data/            # Contains train.csv and test.csv
+├── notebooks/       # Jupyter notebooks with EDA, model training, and evaluation
+├── models/          # Trained model files (optional pickle files, etc.)
+├── scripts/         # Python scripts for modular processing or automation
+├── results/         # Final submission CSV, performance metrics, visualizations
+├── requirements.txt # Python package dependencies
+└── README.md        # Project overview
+
+---
+
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shreyashtm/Titanic-Survival-Prediction.git
+   cd Titanic-Survival-Prediction
