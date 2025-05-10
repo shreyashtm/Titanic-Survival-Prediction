@@ -1,40 +1,29 @@
 # 🚢 Titanic Survival Prediction
 
-## 📝 Project Overview
+## Project Overview
 
-This project aims to predict the survival of passengers aboard the Titanic using machine learning techniques. The objective is to build a model that accurately classifies whether a given passenger survived the disaster, based on various demographic and travel-related features.
+This project aims to predict the survival of passengers aboard the Titanic using machine learning techniques. The goal is to develop a model that accurately classifies whether a given passenger survived the disaster based on various features.
 
 ---
 
-## 📦 Dataset
+## Dataset
 
-The dataset used is the classic [Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) dataset from Kaggle. It includes information such as:
-
-- Passenger class (`Pclass`)
-- Sex
-- Age
-- Fare
-- Family size
-- Embarked location
-- And more...
+The dataset used for this project is the famous Titanic dataset from Kaggle's **Titanic: Machine Learning from Disaster** competition. It contains information about the passengers, including demographic data, class, and other factors that might influence survival.
 
 ---
 
 ## 📁 Project Structure
-Titanic-Survival-Prediction/
-├── data/            # Contains train.csv and test.csv
-├── notebooks/       # Jupyter notebooks with EDA, model training, and evaluation
-├── models/          # Trained model files (optional pickle files, etc.)
-├── scripts/         # Python scripts for modular processing or automation
-├── results/         # Final submission CSV, performance metrics, visualizations
-├── requirements.txt # Python package dependencies
-└── README.md        # Project overview
+
+- `data/`: Contains the Titanic dataset (train and test files).
+- `notebooks/`: Jupyter notebooks with data analysis and model building.
+- `models/`: Saved models and related files.
+- `scripts/`: Python scripts for data processing and model training.
+- `results/`: Model evaluation results and visualizations, including `submission.csv`.
 
 ---
 
-## 🛠️ Installation
+## 🧰 Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/shreyashtm/Titanic-Survival-Prediction.git
-   cd Titanic-Survival-Prediction
