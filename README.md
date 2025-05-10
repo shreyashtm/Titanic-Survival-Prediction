@@ -22,6 +22,19 @@ The dataset used for this project is the famous Titanic dataset from Kaggle's **
 
 ---
 
+🤖 Model Used
+	•	Logistic Regression: This model is used for classification to predict whether a passenger survived or not.
+
+ ---
+
+ 📊 Results
+
+The performance of the model is evaluated based on Accuracy Score and Cross-Validation Score. Detailed results and model evaluation metrics can be found in the results/ directory.
+	•	Kaggle Submission: The submission.csv file for Kaggle can be found in the results/ folder. It contains predictions for all the entries in the test set.
+
+
+ ---
+
 ## 🧰 Installation
 
 1. Clone the repository:
